@@ -36,7 +36,7 @@ Live Demo: [https://your-vercel-link.vercel.app](https://your-vercel-link.vercel
 ## Getting Started
 
 ```bash
-git clone https://github.com/CodElixer/calsee-app.git
+git clone https://github.com/CodElixer/CalSee-app.git
 cd ambiztech-app
 npm install
 npm run dev
