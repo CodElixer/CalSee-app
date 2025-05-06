@@ -1,4 +1,4 @@
-# CalC – Business Solutions Web App
+# CalSee – Business Solutions Web App
 
 A modern, responsive business website built with **React**, **Vite**, **Tailwind CSS**, and **React Router**.  
 Live Demo: [https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)
